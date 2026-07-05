@@ -13,7 +13,8 @@ The dashboard covers data from the following sites:
 - UHC (Urban Health Center)
 
  🖼️ Dashboard Preview
-![Coffee Shop Sales Dashboard](./dashboard_image/photo_2025_03-26_11-31-09.JPG)
+![Summary-of-Hemoglobin-at-Delivery-forJU-Sites-Using-Power-BI](./dashboard_Image/photo_2025-03-26_11-31-09.jpg)
+
 
  📈 Key Metrics
  1. Total Hemoglobin Count
